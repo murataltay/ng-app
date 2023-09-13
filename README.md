@@ -2,6 +2,24 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.5.
 
+## Used Technologies
+
+* Angular 14.2.5
+* Firebase
+* Node Js
+* Html
+* Css
+* TypeScript
+
+## Project Details
+
+* The purpose of this project
+* This project was developed with Angular supported by Firebase. In this project;
+- Authentication ( Use Jwt, RxJS, Admin Guard)
+- Firebase & Services
+- Modular project structure
+- CRUD Operations (Product, Category, User)
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
